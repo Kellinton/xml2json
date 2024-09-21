@@ -151,4 +151,35 @@ document.addEventListener('DOMContentLoaded', () => {
 
     //#endregion Função para converter XML em JSON
 
+    //#region Função para copiar
+
+        document.getElementById('jsonCopy').addEventListener('click', () => {
+  
+            navigator.clipboard.writeText(jsonInput.value)
+
+        });
+        
+        document.getElementById('xmlCopy').addEventListener('click', () => {
+
+            navigator.clipboard.writeText(xmlInput.value)
+
+        });
+        
+
+    //#endregion Função para copiar
+
+    //#region Função para limpar
+        
+        document.getElementById('jsonClear').addEventListener('click', () => {
+            jsonInput.value = '';
+            updateLineNumbers(jsonInput, jsonLineNumbers);
+        });
+        
+        document.getElementById('xmlClear').addEventListener('click', () => {
+            xmlInput.value = '';
+            updateLineNumbers(xmlInput, xmlLineNumbers);
+        });
+    
+    //#endregion Função para limpar
+
 })

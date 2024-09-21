@@ -1,0 +1,115 @@
+{
+    "personagens": [
+      {
+        "id": 1,
+        "nome": "Luffy",
+        "idade": 19,
+        "cargo": "Capitão",
+        "frutaDoDiabo": "Gomu Gomu no Mi",
+        "recompensa": 1500000000,
+        "afiliacao": "Piratas do Chapéu de Palha",
+        "haki": ["Conquistador", "Armamento", "Observação"],
+        "arma": "Punhos"
+      },
+      {
+        "id": 2,
+        "nome": "Ace",
+        "idade": 20,
+        "cargo": "Comandante",
+        "frutaDoDiabo": "Mera Mera no Mi",
+        "recompensa": 550000000,
+        "afiliacao": "Piratas do Barba Branca",
+        "haki": ["Armamento", "Observação"],
+        "arma": "Nenhuma"
+      },
+      {
+        "id": 3,
+        "nome": "Sanji",
+        "idade": 21,
+        "cargo": "Cozinheiro",
+        "frutaDoDiabo": "Nenhuma",
+        "recompensa": 330000000,
+        "afiliacao": "Piratas do Chapéu de Palha",
+        "haki": ["Armamento", "Observação"],
+        "arma": "Pernas"
+      },
+      {
+        "id": 4,
+        "nome": "Zoro",
+        "idade": 21,
+        "cargo": "Espadachim",
+        "frutaDoDiabo": "Nenhuma",
+        "recompensa": 320000000,
+        "afiliacao": "Piratas do Chapéu de Palha",
+        "haki": ["Armamento", "Observação"],
+        "arma": "Espadas"
+      },
+      {
+        "id": 5,
+        "nome": "Nami",
+        "idade": 20,
+        "cargo": "Navegadora",
+        "frutaDoDiabo": "Nenhuma",
+        "recompensa": 66000000,
+        "afiliacao": "Piratas do Chapéu de Palha",
+        "haki": "Nenhum",
+        "arma": "Clima-Tact"
+      },
+      {
+        "id": 6,
+        "nome": "Usopp",
+        "idade": 19,
+        "cargo": "Atirador",
+        "frutaDoDiabo": "Nenhuma",
+        "recompensa": 200000000,
+        "afiliacao": "Piratas do Chapéu de Palha",
+        "haki": "Observação",
+        "arma": "Estilingue"
+      },
+      {
+        "id": 7,
+        "nome": "Chopper",
+        "idade": 17,
+        "cargo": "Médico",
+        "frutaDoDiabo": "Hito Hito no Mi",
+        "recompensa": 100,
+        "afiliacao": "Piratas do Chapéu de Palha",
+        "haki": "Nenhum",
+        "arma": "Nenhuma"
+      },
+      {
+        "id": 8,
+        "nome": "Robin",
+        "idade": 30,
+        "cargo": "Arqueóloga",
+        "frutaDoDiabo": "Hana Hana no Mi",
+        "recompensa": 130000000,
+        "afiliacao": "Piratas do Chapéu de Palha",
+        "haki": "Nenhum",
+        "arma": "Nenhuma"
+      },
+      {
+        "id": 9,
+        "nome": "Franky",
+        "idade": 36,
+        "cargo": "Carpinteiro",
+        "frutaDoDiabo": "Nenhuma",
+        "recompensa": 94000000,
+        "afiliacao": "Piratas do Chapéu de Palha",
+        "haki": "Nenhum",
+        "arma": "Corpo Ciborgue"
+      },
+      {
+        "id": 10,
+        "nome": "Brook",
+        "idade": 90,
+        "cargo": "Músico",
+        "frutaDoDiabo": "Yomi Yomi no Mi",
+        "recompensa": 83000000,
+        "afiliacao": "Piratas do Chapéu de Palha",
+        "haki": "Nenhum",
+        "arma": "Espada de Bengala"
+      }
+    ]
+  }
+  

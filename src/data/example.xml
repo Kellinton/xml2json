@@ -1,0 +1,112 @@
+<personagens>
+    <personagem>
+        <id>1</id>
+        <nome>Luffy</nome>
+        <idade>19</idade>
+        <cargo>Capitão</cargo>
+        <frutaDoDiabo>Gomu Gomu no Mi</frutaDoDiabo>
+        <recompensa>1.500.000.000</recompensa>
+        <afiliacao>Piratas do Chapéu de Palha</afiliacao>
+        <haki>Conquistador, Armamento, Observação</haki>
+        <arma>Punhos</arma>
+    </personagem>
+    <personagem>
+        <id>2</id>
+        <nome>Ace</nome>
+        <idade>20</idade>
+        <cargo>Comandante</cargo>
+        <frutaDoDiabo>Mera Mera no Mi</frutaDoDiabo>
+        <recompensa>550.000.000</recompensa>
+        <afiliacao>Piratas do Barba Branca</afiliacao>
+        <haki>Armamento, Observação</haki>
+        <arma>Nenhuma</arma>
+    </personagem>
+    <personagem>
+        <id>3</id>
+        <nome>Sanji</nome>
+        <idade>21</idade>
+        <cargo>Cozinheiro</cargo>
+        <frutaDoDiabo>Nenhuma</frutaDoDiabo>
+        <recompensa>330.000.000</recompensa>
+        <afiliacao>Piratas do Chapéu de Palha</afiliacao>
+        <haki>Armamento, Observação</haki>
+        <arma>Pernas</arma>
+    </personagem>
+    <personagem>
+        <id>4</id>
+        <nome>Zoro</nome>
+        <idade>21</idade>
+        <cargo>Espadachim</cargo>
+        <frutaDoDiabo>Nenhuma</frutaDoDiabo>
+        <recompensa>320.000.000</recompensa>
+        <afiliacao>Piratas do Chapéu de Palha</afiliacao>
+        <haki>Armamento, Observação</haki>
+        <arma>Espadas</arma>
+    </personagem>
+    <personagem>
+        <id>5</id>
+        <nome>Nami</nome>
+        <idade>20</idade>
+        <cargo>Navegadora</cargo>
+        <frutaDoDiabo>Nenhuma</frutaDoDiabo>
+        <recompensa>66.000.000</recompensa>
+        <afiliacao>Piratas do Chapéu de Palha</afiliacao>
+        <haki>Nenhum</haki>
+        <arma>Clima-Tact</arma>
+    </personagem>
+    <personagem>
+        <id>6</id>
+        <nome>Usopp</nome>
+        <idade>19</idade>
+        <cargo>Atirador</cargo>
+        <frutaDoDiabo>Nenhuma</frutaDoDiabo>
+        <recompensa>200.000.000</recompensa>
+        <afiliacao>Piratas do Chapéu de Palha</afiliacao>
+        <haki>Observação</haki>
+        <arma>Estilingue</arma>
+    </personagem>
+    <personagem>
+        <id>7</id>
+        <nome>Chopper</nome>
+        <idade>17</idade>
+        <cargo>Médico</cargo>
+        <frutaDoDiabo>Hito Hito no Mi</frutaDoDiabo>
+        <recompensa>100</recompensa>
+        <afiliacao>Piratas do Chapéu de Palha</afiliacao>
+        <haki>Nenhum</haki>
+        <arma>Nenhuma</arma>
+    </personagem>
+    <personagem>
+        <id>8</id>
+        <nome>Robin</nome>
+        <idade>30</idade>
+        <cargo>Arqueóloga</cargo>
+        <frutaDoDiabo>Hana Hana no Mi</frutaDoDiabo>
+        <recompensa>130.000.000</recompensa>
+        <afiliacao>Piratas do Chapéu de Palha</afiliacao>
+        <haki>Nenhum</haki>
+        <arma>Nenhuma</arma>
+    </personagem>
+    <personagem>
+        <id>9</id>
+        <nome>Franky</nome>
+        <idade>36</idade>
+        <cargo>Carpinteiro</cargo>
+        <frutaDoDiabo>Nenhuma</frutaDoDiabo>
+        <recompensa>94.000.000</recompensa>
+        <afiliacao>Piratas do Chapéu de Palha</afiliacao>
+        <haki>Nenhum</haki>
+        <arma>Corpo Ciborgue</arma>
+    </personagem>
+    <personagem>
+        <id>10</id>
+        <nome>Brook</nome>
+        <idade>90</idade>
+        <cargo>Músico</cargo>
+        <frutaDoDiabo>Yomi Yomi no Mi</frutaDoDiabo>
+        <recompensa>83.000.000</recompensa>
+        <afiliacao>Piratas do Chapéu de Palha</afiliacao>
+        <haki>Nenhum</haki>
+        <arma>Espada de Bengala</arma>
+    </personagem>
+</personagens>
